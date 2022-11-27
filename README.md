@@ -3,4 +3,4 @@ This is an exercise project on MovieLens recommendation data. The exercise follo
 his PyTorch -course. 
 https://deeplearningcourses.com/c/pytorch-deep-learning
 
-I've been running the in the Google -colab.
+I've been running the code in the Google -colab.
